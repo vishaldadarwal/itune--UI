@@ -1,0 +1,296 @@
+
+/*--navbar--*/
+
+.nav-item
+{
+    padding:0 20px;
+}
+
+
+
+
+
+
+/*--section-A--*/
+
+.section-a 
+{
+    padding-top:50px;
+    padding-left:8rem !important;
+    padding-right:8rem !important; 
+ 
+}
+.section-a2 img 
+{
+    width:100%;
+ 
+}
+.section-a1 h1
+{
+   
+    padding-top:50px; 
+    font-size:3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-a1 h2
+{
+    padding:0;
+    font-size:3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-a1 p
+{
+    padding-bottom:50px;
+    font-size:1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*--section-B--*/
+
+
+.section-b 
+{
+    padding-left:8rem !important;
+    padding-right:8rem !important; 
+ 
+}
+.section-b2 img 
+{
+    width:100%;
+ 
+}
+
+.section-b1 h1
+{
+    padding-top:100px; 
+    font-size:2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-b1 h2
+{
+    padding:0;
+    font-size:3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-b1 p
+{
+    padding-bottom:50px;
+    font-size:1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-b3 
+{
+    padding-top:20px;
+    font-size:1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*--section-C--*/
+
+
+
+.section-c 
+{
+    padding-left:8rem !important;
+    padding-right:8rem !important; 
+ 
+}
+
+.section-c1 h1
+{
+    padding-top:100px; 
+    font-size:3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section-c1 p
+{
+    padding-bottom:50px;
+    font-size:1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-c2 img 
+{
+    width:100%;
+    padding-bottom:60px;
+ 
+}
+
+
+
+/*--section-D--*/
+
+.section-d
+{
+    min-height: 500px;
+    color:white;
+   width:100%;
+}
+.section-d img
+{
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    height:500px;
+    width: 100% ;
+    z-index: -1;
+   
+    
+}
+.section-d1 
+{
+    
+    
+ 
+}
+.section-d1 h1
+{
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;  
+    padding-top:5rem;
+    
+}
+.section-d1 p
+{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;  
+    
+}
+
+/*--section-E--*/
+
+
+
+.section-e 
+{
+    padding-top:60px;
+    padding-left:8rem !important;
+    padding-right:8rem !important;
+    padding-bottom: 60px; 
+ 
+}
+.section-e1 img 
+{
+    width:100%;
+ 
+}
+.section-e2 h1
+{
+    font-size:3rem;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+
+/*--section-f--*/
+
+
+
+.section-f 
+{
+    padding-left:8rem !important;
+    padding-right:8rem !important; 
+ 
+}
+.section-f h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+}
+.section-f p
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    
+
+@media only screen and (max-width:900px)
+{
+    .section-a
+    {
+        padding-left:6rem !important;
+        padding-right:6rem !important; 
+       
+    }
+    .section-b
+    {
+        padding-left:6rem !important;
+        padding-right:6rem !important; 
+       
+    }
+    .section-c
+    {
+        padding-left:6rem !important;
+        padding-right:6rem !important; 
+       
+    }
+    
+    .section-e
+    {
+        padding-left:6rem !important;
+        padding-right:6rem !important; 
+       
+    }
+    .section-f
+    {
+        padding-left:6rem !important;
+        padding-right:6rem !important; 
+       
+    }
+    
+
+}
+
+@media only screen and (max-width:700px)
+{
+    
+    .section-a
+    {
+        padding-left:3rem !important;
+        padding-right:3rem !important; 
+       
+    }
+    
+    .section-b
+    {
+        padding-left:3rem !important;
+        padding-right:3rem !important; 
+       
+    }
+    
+    .section-c
+    {
+        padding-left:3rem !important;
+        padding-right:3rem !important; 
+       
+    }
+    
+    .section-e
+    {
+        padding-left:3rem !important;
+        padding-right:3rem !important; 
+       
+    }
+    .section-f
+    {
+        padding-left:3rem !important;
+        padding-right:3rem !important; 
+       
+    }
+}
+@media only screen and (max-width:574px){
+    .section-a1 h1,.section-b1 h1
+    {
+    font-size:2.1rem;
+    font-family: 'Times New Roman', Times, serif !important;
+    }
+    .section-a1 h2,.section-b1 h2,.section-c1 h1,.section-d1 h1,.section-e2 h1
+    {
+    font-size:2rem;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    .section-a1 p,.section-b1 p,.section-c1 p,.section-d1 p
+    {
+    font-size:1rem;
+    font-family: 'Times New Roman', Times, serif;
+    }
+}
